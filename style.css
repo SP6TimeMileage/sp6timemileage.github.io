@@ -1,0 +1,20 @@
+html {
+  body {
+    background-color: #90EE90;
+  }
+
+  h1 {
+    color: #BF40BF;
+    font-family: roboto;
+    font-size: 230%;
+  }
+
+  p {
+    color: #800080;
+    font-family: roboto;
+    font-size: 130;
+  }
+
+  height: 100%;
+  width: 100%;
+}
